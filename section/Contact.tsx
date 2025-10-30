@@ -1,9 +1,16 @@
-import React from 'react'
+import Title from '@/components/Title';
+import React from 'react';
 
 function Contact() {
   return (
-    <div>Contact</div>
-  )
+    <section>
+      <Title
+        description="যোগাযোগ করতে এখানে ক্লিক করুন"
+        popupTitle="contact"
+        title="যোগাযোগ করুন"
+      />
+    </section>
+  );
 }
 
-export default Contact
+export default Contact;
