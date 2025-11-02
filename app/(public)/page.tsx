@@ -11,8 +11,8 @@ function page() {
       <Hero />
       <About />
       <ProductsProcess />
-      <Contact />
       <Faq />
+      <Contact />
     </div>
   );
 }
