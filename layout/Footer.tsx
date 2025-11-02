@@ -71,7 +71,7 @@ function Footer() {
               <Icons.Messenger className="w-6 h-6" />
             </Link>
             <Link
-              href="/"
+              href="https://t.me/sofast10"
               target="_blank"
               className="font-bold border p-2 border-sky-600 hover:bg-sky-600 transition rounded  text-sky-600 hover:text-white"
             >
