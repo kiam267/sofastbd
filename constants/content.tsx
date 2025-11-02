@@ -3,7 +3,7 @@ import { LucideProps, CircleCheckBig } from 'lucide-react';
 export const NavLinks = [
   { name: 'হোম', href: '/' },
   { name: 'আমাদের সম্পর্কে', href: '#about' },
-  { name: 'সেবা সমূহ', href: '#services' },
+  // { name: 'সেবা সমূহ', href: '#services' },
   { name: 'কিভাবে পোডাক্ট পাবে', href: '#product-process' },
   { name: 'যোগাযোগ', href: '#contact' },
 ];

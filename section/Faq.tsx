@@ -29,7 +29,7 @@ function Faq() {
             <h2 className="text-2xl font-bold">
               সচরাচর জানতে চাওয়া প্রশ্নের উত্তর
             </h2>
-            <p className="text-sm lg:w-1/2 text-gray-600">
+            <p className="text-sm lg:w-1/2 text-gray-600 mt-4">
               আপনাদের কমন কিছু প্রশ্নের উত্তর আমরা এখানে
               লিস্ট করে দিয়েছি। আমাদের কে প্রশ্ন করার পূর্বে
               এই লিস্টটি একবার পড়ে নেয়ার অনুরোধ থাকলো। তাহলে

@@ -50,25 +50,29 @@ function Footer() {
           </h4>
           <div className="flex justify-between gap-4 ">
             <Link
-              href="/"
+              href="https://www.facebook.com/sofastbd"
+              target="_blank"
               className="font-bold border p-2 border-blue-600 hover:bg-blue-600 transition rounded  text-blue-600 hover:text-white "
             >
               <Icons.Facebook className="w-6 h-6 " />
             </Link>
             <Link
-              href="/"
+              href="https://wa.me/+8801309301034"
+              target="_blank"
               className="font-bold border p-2 border-green-600 hover:bg-green-600 transition rounded hover:text-white text-green-600   "
             >
               <Icons.Whatsapp className="w-6 h-6" />
             </Link>
             <Link
-              href="/"
+              href="https://www.facebook.com/sofastbd"
+              target="_blank"
               className="font-bold border p-2 border-blue-600 hover:bg-blue-600 transition rounded  text-blue-600 hover:text-white "
             >
               <Icons.Messenger className="w-6 h-6" />
             </Link>
             <Link
               href="/"
+              target="_blank"
               className="font-bold border p-2 border-sky-600 hover:bg-sky-600 transition rounded  text-sky-600 hover:text-white"
             >
               <Icons.Telegram className="w-6 h-6" />

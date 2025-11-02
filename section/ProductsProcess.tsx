@@ -1,11 +1,13 @@
 import Title from '@/components/Title';
 import { Timeline } from '@/components/ui/timeline';
 import { ProductsProcessContent } from '@/constants/content';
-import React from 'react';
 
 function ProductsProcess() {
   return (
-    <section>
+    <section
+      className="container mx-auto"
+      id="product-process"
+    >
       <Title
         description="আমাদের পণ্য প্রক্রিয়া সম্পর্কে জানুন"
         popupTitle="process"

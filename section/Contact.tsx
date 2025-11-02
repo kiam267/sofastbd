@@ -89,7 +89,8 @@ function Contact() {
             />
             <Button
               type="submit"
-              className="w-6/12 mx-auto block"
+              variant="violet"
+              className="w-6/12 mx-auto block cursor-pointer"
             >
               Submit
             </Button>

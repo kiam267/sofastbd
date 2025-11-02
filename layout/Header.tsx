@@ -81,7 +81,7 @@ function Header() {
       {isMenuOpen && (
         <div
           ref={menuRef}
-          className="absolute top-full left-0 w-full bg-white border-t border-gray-200 shadow-md lg:hidden animate-slideDown"
+          className="absolute top-full left-0 w-full bg-white border-t border-gray-200 shadow-md lg:hidden animate-slideDown z-10"
         >
           <ul className="flex flex-col items-start p-4 space-y-3 text-gray-700 font-medium">
             {NavLinks.map((link, index) => (
